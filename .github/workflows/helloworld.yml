@@ -22,3 +22,6 @@ jobs:
 
       - name: List files
         run: ls -la
+      
+      - name: New Stage
+        run: echo "Print this to say Good Bye."
